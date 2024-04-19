@@ -1,11 +1,7 @@
 # KCD
 This for Family Leisure Club company
 
-Environment:
-Ubuntu 20.04
-ngix
-PHP 8.1
-MySql 8.0
+Environment: Ubuntu 20.04, nginx, PHP 8.1, MySql 8.0
 
 Тестові завдання.
 
