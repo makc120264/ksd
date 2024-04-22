@@ -65,7 +65,7 @@ class User
                 $userProjects[$user["name"]]++;
             }
         }
-        arsort($userProjects);
+        asort($userProjects);
 
         return $userProjects;
     }
